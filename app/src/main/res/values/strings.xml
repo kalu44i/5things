@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practice Set 2</string>
+    <string name="action_settings">Settings</string>
+    <string name="startQuestion">Do you want to teach something interesting?</string>
+    <string name="hello">Hello Sasha!</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
